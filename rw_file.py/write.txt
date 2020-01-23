@@ -1,0 +1,3 @@
+akash,1000
+rana,500
+naim,300
